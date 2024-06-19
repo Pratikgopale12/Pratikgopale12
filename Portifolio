@@ -1,1 +1,223 @@
+<!DOCTYPE html>
+<!-- saved from url=(0061)file:///C:/Users/Lenovo/Desktop/Pratik%20Portfolio.html#about -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Developer Portfolio</title>
+    <link rel="stylesheet" href="file:///C:/Users/Lenovo/Desktop/styles.css">
+<style>
+    /* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
 
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: block;
+    
+   
+}
+.inline{
+    display: inline-block;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: all 0.3s ease; /* Smooth transition for all properties */  
+}
+.inline:hover{
+    background-color: #e71414;
+    color: #000000; /* Change text color to yellow */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add a shadow effect */
+    transform: scale(1.05); /* Slight zoom effect */
+
+}
+
+
+header, footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+}
+
+header nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+header nav ul li a {
+    display: inline-block;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: all 0.3s ease; /* Smooth transition for all properties */
+}
+header nav ul li a:hover {
+    background-color: #e71414;
+    color: #000000; /* Change text color to yellow */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add a shadow effect */
+    transform: scale(1.05); /* Slight zoom effect */
+}
+
+/* Section Styles */
+section {
+    padding: 40px 0;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+/* Project Styles */
+.project {
+    margin-bottom: 40px;
+}
+
+.project h3 {
+    margin-bottom: 10px;
+}
+.project a {
+    display: inline-block;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: all 0.3s ease; /* Smooth transition for all properties */
+}
+
+.project a:hover {
+    background-color: #e71414;
+    color: #000000; /* Change text color to yellow */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add a shadow effect */
+    transform: scale(1.05); /* Slight zoom effect */
+}
+
+.projecttheme{
+    color: red;
+}
+
+
+</style></head>
+
+<body>
+    <header>
+        <div class="container">
+            
+            
+            <h1>Pratik Gopale</h1>
+            <h5>Software Developer and Database Developer</h5>
+            <h6>Location: (MH) Chhatrapati Sambhajinagar</h6>
+           
+            <a class="inline" href="https://www.linkedin.com/in/pratik-gopale-865675230/">LinkedIn</a>
+            <a class="inline" href="https://www.instagram.com/tinu_23_/">Instagram Id</a>
+            <a class="inline" href="https://www.facebook.com/tinu.gopale.3">Facebook</a>
+            <nav>
+                <ul>
+                    <li><a href="file:///C:/Users/Lenovo/Desktop/Pratik%20Portfolio.html#about">About</a></li>
+                    <li><a href="file:///C:/Users/Lenovo/Desktop/Pratik%20Portfolio.html#projects">Projects</a></li>
+                    <li><a href="file:///C:/Users/Lenovo/Desktop/Pratik%20Portfolio.html#contact">Contact</a></li>
+                    <li><a href="file:///C:/Users/Lenovo/Desktop/Pratik%20Portfolio.html#Interests">Interests</a></li>
+                    <li><a href="file:///C:/Users/Lenovo/Desktop/Pratik%20Portfolio.html#skills">Skills</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="about">
+        <div class="container">
+            <h2>About Me</h2>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;Enthusiastic and motivated with a Bachelor's degree in Computer Science, eager to launch a career in software development. Possessing a solid foundation in programming languages including CoreJava, C#, PHP, C, C++, and JavaScript, MySQL, SQL. Along with familiarity with various web development frameworks and technologies. Proven ability to thrive in collaborative team environments, adapt to new challenges, and continuously seek growth opportunities.</p>
+            
+            <h2>Education</h2>
+            <ul>
+                <li>Currently pursuing M.Sc. Computer Science in final year.</li>
+                <li>Completed B.Sc. with 66.00% in Regular. In year 2021.</li>
+                <li>HSC completed in Science with 62.00%. In year 2017.</li>
+                <li>SSC state board completed with 52.00%. In year 2015.</li>
+            </ul>
+        </div>
+    </section>
+    
+
+    <section id="projects">
+        <div class="container">
+            <h2>Projects</h2>
+            <div class="project">
+                <h3>SwimFest.in:</h3>
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;Developed a web-based application called "SwimFest.in" using HTML, CSS, and JavaScript, PHP, Mysql, aimed at helping users track their swimming progress and set goals. </p>
+                 <a href="https://drive.google.com/file/d/1cILXCjMdl8mMFjS3-naF4WR_jx_nOJu_/view?usp=sharing">View Project</a>
+            </div>
+            <div class="project">
+                <h3>University Data Analysis: </h3>
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;Exploring Patterns and Trends in University Data: Exploring Patterns and Trends in University Data: A Comprehensive Data Analysis Project. Using Machine learning, Python, MySQL, and Jupyter Notebook.</p>
+                <a href="https://drive.google.com/file/d/1vnnf80dYQmh5QZdWLKVdqsCa8XeCR2YI/view?usp=drivesdk">View Project</a>
+            </div><div class="project">
+                <h3>TrueValues.com</h3>
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;Developed a comprehensive Bank Management System using PHP, MySQL, HTML, CSS, and JavaScript. This web-based application provides an intuitive interface for managing various banking operations, including account creation, transaction management, and customer service.</p>
+                <a href="https://drive.google.com/file/d/1vY_WiQYLpO-FS99psE2r-R_ErobtRVDx/view?usp=drive_link">View Project</a>
+            </div><div class="project">
+                <h3>Teacher Diary</h3>
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;Teacher Diary is a web-based application designed to streamline the daily tasks of educators. It provides a platform for teachers to organize their schedules, manage student records, and communicate with parents effectively. The application utilizes PHP for server-side scripting, MySQL for database management, and HTML, JavaScript, and CSS for the user interface.</p>
+                <a href="https://drive.google.com/file/d/1vVJg3ulpMLvPvBr1qKDR27CQvBsmN_BJ/view?usp=drive_link">View Project</a>
+            </div>
+            <!-- Add more projects as needed -->
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="container">
+            <h2>Contact Me</h2>
+            <p>You can reach me at <a href="mailto:pratikgopale12@gmail.com">Pratikgopale12@gmail.com</a></p>
+            <p>Contact No. <a href="tel:7030398502">+91-7030398502</a>
+            </p>
+            <!-- Add a contact form or additional contact information -->
+        </div>
+    </section>
+    <section id="skills">
+        <div class="container">
+            <h2>Skills</h2>
+            <h3>Technical Skills</h3>
+            <ul>
+                <li><strong>Programming Languages:</strong> C, C++, C#, CoreJava, PHP (learning new languages)</li><br>
+                <li><strong>Frontend Development:</strong> HTML, CSS, JavaScript</li><br>
+                <li><strong>Databases:</strong> MySQL, SQL, PLSQL, phpMyadmin</li><br>
+                <li><strong>Microsoft Software:</strong> Microsoft Office, Microsoft 365, Visual Studio, Visual Studio Code, Sublime Text</li><br>
+            </ul>
+        </div>
+    </section>
+    
+    <section id="Interests">
+        <div class="container">
+            <h2>Hobbies</h2>
+           <li>Reading </li> 
+           <li>Writing </li>
+           <li><a href="https://www.instagram.com/pencil_whisperer_1089?igsh=Y2pzOWpsbXR3NHFo">Painting </a></li>
+           <li>Traveling</li>
+           <li> <a href="https://www.instagram.com/tinu_23_/">Contact Creator</a></li>
+       
+            <!-- Add a contact form or additional contact information -->
+        </div>
+    </section>
+
+
+    <footer>
+        <div class="container">
+            <p>© 2024 Developer Name. All rights reserved.</p>
+        </div>
+    </footer>
+
+
+</body></html>
